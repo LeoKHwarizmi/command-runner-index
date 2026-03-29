@@ -1,0 +1,25 @@
+{
+  "http": {
+    "versions": {
+      "1.0.0": {
+        "description": "Simple HTTP client",
+        "entry": "http.cmd",
+        "url": "https://raw.githubusercontent.com/LeoKHwarizmi/command-runner-index/main/packages/http/http-1.0.0.zip"
+      },
+      "1.2.0": {
+        "description": "Simple HTTP client with improvements",
+        "entry": "http.cmd",
+        "url": "https://raw.githubusercontent.com/LeoKHwarizmi/command-runner-index/main/packages/http/http-1.2.0.zip"
+      }
+    }
+  },
+  "json": {
+    "versions": {
+      "1.0.0": {
+        "description": "JSON utilities",
+        "entry": "json.cmd",
+        "url": "https://raw.githubusercontent.com/LeoKHwarizmi/command-runner-index/main/packages/json/json-1.0.0.zip"
+      }
+    }
+  }
+}
